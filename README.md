@@ -9,3 +9,4 @@ to leave time for questions.
 This repo is private now, but will be public so we can 
 use GitHub Pages to make the slides available.
 
+We'll start by editing last year's slides, so I'll put them in this repo.
