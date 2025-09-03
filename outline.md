@@ -3,6 +3,8 @@
 ## LH motivation/background/Big Team context
 ## Yani?
 
+# What is code review?
+
 # rOpenSci resources for Code Review
 
 ## Review chapter in Package Dev Guide is awesome!
