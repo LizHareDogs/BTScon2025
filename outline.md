@@ -26,7 +26,13 @@
 ### Diverse cohort of international R users from many fields
 
 
-# or ## Community Management side?
+## Unexpected benefits
+### learn new functions and efficient approaches-- there's always more
+to learn about R
+### Figuring out someone else's code is a fun puzzle
+### introduction to object oriented structures helped with a later
+project
+## Ways of working from rOpenSci and The Turing Way benefit consulting project
 
 # Closing-- relevance to Big Team Science, which I will have
 talked about in the intro
