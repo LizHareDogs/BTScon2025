@@ -134,20 +134,29 @@ class: middle, title
 ---
 # Introductions and Perspectives
 
-- quantitative genetics
+
+
+.pull-left[
+###Yani
+
+- add
+- stuff
+- here
+]
+-
+.pull-right[
+### Liz
+quantitative genetics
 - academic and academic-adjacent
 - usually  held rold or data person on tem so coded alone
 joined ManyDogs Project, started thinking about collaborative coding
 - rOpenSci Champions program enabled me to build skills for c
   collaborative coding
+  ]
   
-  ---
-  
-  # Yani intro thoughts?
-  
-  ---
-  
-#   What is [rOpenSci](https://ropensci.org)
+---
+    
+  #   What is [rOpenSci](https://ropensci.org)
 
 Tagline: 
 ** Transforming science through open data, software & 
@@ -181,9 +190,73 @@ rOpenSci is a community of practice
         - [Guide for
       Authors](https://devguide.ropensci.org/softwarereview_author.html)
       to lead you through the rOpenSci-specific process
-	  - [Guide for Reviewers](
+	  - [Guide for Reviewers](https://devguide.ropensci.org/softwarereview_reviewer.html)
 
 
+---
+
+# More Resources
+
+Code review happens on [GitHub]((https://github.com/ropensci)
+
+Each package review happens in an issue, and some good first examples
+are recommended in the Guide for Reviewers.
+
+We use a [handy
+template](https://devguide.ropensci.org/reviewtemplate.html) t
+
+- provides structure for review
+- checklist of items to review
+
+---
+
+# More resources
+
+- Join the rOpenSci Slack when you start contributing
+- check out the [rOPenSci Discussion
+  Forum](https://discuss.ropensci.org)
+      - might be better for longer questions or explanations than
+        Slack
+		
+			
+# Champions Program
+
+
+---
+
+# Champions Program Training
+
+    - Code best practices
+- Version control and collaboration with GitHub
+- Writing packages
+- Reviewing packages
+- Organizing inclusive open science events
+
+---
+
+# Champions Program Features
+
+- Community
+- Mentoring
+- Write a package or review one
+- Outreach activity (blog post, webinar or workshop)		]
+ ---
+
+# Unexpected Benefits
+
+- Learn new packages and functions
+- Learn clearer and more efficient approaches
+- Enjoy the puzzle of figuring out and following the authors' work
+- Introduction to object-oriented data structures helped in a future
+  project
+  - Ways of collaborating apply to private consulting project
+  
+---
+  
+# Code Review and Big Team Science  
+  
+
+---		
 
 #### Thank you! 
 
