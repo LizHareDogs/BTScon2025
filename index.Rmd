@@ -143,20 +143,20 @@ class: middle, title
 - stuff
 - here
 ]
--
+
 .pull-right[
 ### Liz
-quantitative genetics
+
+- quantitative genetics
 - academic and academic-adjacent
-- usually  held rold or data person on tem so coded alone
-joined ManyDogs Project, started thinking about collaborative coding
-- rOpenSci Champions program enabled me to build skills for c
-  collaborative coding
-  ]
+- independent work on data
+- joined ManyDogs Project, started thinking about collaborative coding
+- rOpenSci Champions program 
+]
   
 ---
     
-  #   What is [rOpenSci](https://ropensci.org)
+#   What is [rOpenSci](https://ropensci.org)
 
 Tagline: 
 ** Transforming science through open data, software & 
@@ -182,8 +182,10 @@ rOpenSci is a community of practice
 
 # rOpenSci Community Resources
 
+### They're multilingual
+
 - [rOpenSci website](https://ropensci.org)
-    - Friendly, detailed [Dev Guide](https://devguide.ropensci.org)
+    - Friendly, detailed [Dev Guide in Spanish, ortuguese, and English](https://devguide.ropensci.org)
       containing
         - [Packaging Guide](https://devguide.ropensci.org) introducing
       R tools and practices
@@ -203,7 +205,7 @@ Each package review happens in an issue, and some good first examples
 are recommended in the Guide for Reviewers.
 
 We use a [handy
-template](https://devguide.ropensci.org/reviewtemplate.html) t
+template](https://devguide.ropensci.org/reviewtemplate.html) 
 
 - provides structure for review
 - checklist of items to review
@@ -218,15 +220,18 @@ template](https://devguide.ropensci.org/reviewtemplate.html) t
       - might be better for longer questions or explanations than
         Slack
 		
-			
+---
+
 # Champions Program
 
+- -- Addresses concerned with sustainability and openness of research software 
+- Diverse cohorts foster sustainability, open science, and equity
 
 ---
 
 # Champions Program Training
 
-    - Code best practices
+-     - Code best practices
 - Version control and collaboration with GitHub
 - Writing packages
 - Reviewing packages
@@ -240,29 +245,36 @@ template](https://devguide.ropensci.org/reviewtemplate.html) t
 - Mentoring
 - Write a package or review one
 - Outreach activity (blog post, webinar or workshop)		]
- ---
+
+---
 
 # Unexpected Benefits
 
 - Learn new packages and functions
-- Learn clearer and more efficient approaches
+- Learn clearer and more efficient approaches you can use in your own work
 - Enjoy the puzzle of figuring out and following the authors' work
 - Introduction to object-oriented data structures helped in a future
   project
-  - Ways of collaborating apply to private consulting project
+- Ways of collaborating apply to private consulting project
   
 ---
   
 # Code Review and Big Team Science  
-  
 
----		
+Adapt rOpenSci practices for your projects data team
+
+- use relevant Parts of the Development Guide and templates
+	- learn the GitHub processes for collaboration on code; GitLab and Codeberg operate on similar principles
+    - spirit of community and learning together
+
+---
+
 
 #### Thank you! 
 
 * BTSCon organizers
-* Colleagues at The Turing Way
-* UseR!2021 Organizing Committee
+# rOpenSci community and Champions program
+
 
 
 
