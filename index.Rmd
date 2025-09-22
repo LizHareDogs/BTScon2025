@@ -185,7 +185,7 @@ rOpenSci is a community of practice
 ### They're multilingual
 
 - [rOpenSci website](https://ropensci.org)
-    - Friendly, detailed [Dev Guide in Spanish, ortuguese, and English](https://devguide.ropensci.org)
+    - Friendly, detailed [Dev Guide in Spanish, Portuguese, and English](https://devguide.ropensci.org)
       containing
         - [Packaging Guide](https://devguide.ropensci.org) introducing
       R tools and practices
@@ -226,6 +226,7 @@ template](https://devguide.ropensci.org/reviewtemplate.html)
 
 - -- Addresses concerned with sustainability and openness of research software 
 - Diverse cohorts foster sustainability, open science, and equity
+- Stipend for participants 
 
 ---
 
