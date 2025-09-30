@@ -128,8 +128,10 @@ class: middle, title
 <br> [`r fa("github", a11y="sem")` @LizHareDogs](https://github.com/LizHareDogs)<br>
 [`r fa("mastodon", a11y="sem")` @LizHare](https://fosstodon.org/@lizhare) <br>
 [`r fa("envelope", a11y="sem")` LizHare@DogGenetics.com](mailto:LizHare@DogGenetics.com)
-]
-
+<br>
+<br>
+[`r fa("github", a11y="sem")` @yabellini](https://github.com/yabellini)<br>
+[`r fa("mastodon", a11y="sem")` @yabellini](https://rstats.me/@yabellini) <br>]
 
 ---
 # Introductions and Perspectives
@@ -169,14 +171,16 @@ rOpenSci is a community of practice
 - build infrastructure for sharing and collaboration, both socially
   and technically 
 
-
+<br>
+<br>
+<img src="img/ropensci.png" alt="Logo de rOpenSci" width="300" style="float: right;" />
 ---
 
 # rOpenSci Areas of Focus
 
 - Software Peer Review (Stats)
 - Infrastructure (social and technical)
-- Training and mentorship (and training for mentorship!)
+- Training and mentorship (and [training for mentorship!](https://ropensci.org/blog/2025/04/08/mentoring-tools/))
 - Multilingual publishing
 
 ---
@@ -184,6 +188,8 @@ rOpenSci is a community of practice
 # rOpenSci Community Resources
 
 ### They're multilingual
+
+.pull-left[
 
 - [rOpenSci website](https://ropensci.org)
     - Friendly, detailed [Dev Guide in Spanish, Portuguese, and English](https://devguide.ropensci.org)
@@ -195,14 +201,21 @@ rOpenSci is a community of practice
       to lead you through the rOpenSci-specific process
 	  - [Guide for Reviewers](https://devguide.ropensci.org/softwarereview_reviewer.html)
 
+]
 
+.pull-right[
+
+<img src="img/cover.png" alt="Cover of “rOpenSci Packages: Development, Maintenance, and Peer Review” with illustrations of people assembling and reviewing packages on a conveyor belt. Speech bubbles and checkmarks represent communication and validation." width="300" />
+
+]
 ---
 
 # More Resources
 
-Code review happens on [GitHub]((https://github.com/ropensci)
+.pull-left[
+Code review happens on [GitHub](https://github.com/ropensci)
 
-Each package review happens in an issue, and some good first examples
+Each package review [happens in an issue](https://github.com/ropensci/software-review/issues), and some good first examples
 are recommended in the Guide for Reviewers.
 
 We use a [handy
@@ -210,15 +223,28 @@ template](https://devguide.ropensci.org/reviewtemplate.html)
 
 - provides structure for review
 - checklist of items to review
+]
+
+.pull-right[
+<img src="img/template.png" alt="Review Template listing Conflict of interest, Documentation (statement of need, installation instructions, vignettes, function docs, examples and community guidelines) and functionality (installation, funcionality, performance, tests, packaging guidelines) to review" width="300" />
+]
+
 
 ---
 
 # More resources
 
+.pull-left[
 - Join the rOpenSci Slack when you [start contributing](https://contributing.ropensci.org)
 - Check out the [rOpenSci Newsletter](https://ropensci.org/news/) and [blog](https://ropensci.org/blog/)
+]
+		
+.pull-right[	
+
+<img src="img/contrib_guide_cover.png" alt="Cover of rOpenSci Community Contributing Guide with illustrations of diverse people in science and technology, shown in hexagon frames" width="450" />
 
 		
+]
 ---
 
 # Champions Program
